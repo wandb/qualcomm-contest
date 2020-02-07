@@ -1,7 +1,7 @@
 
 # Weights & Biases x Qualcomm - SpaceInvaders Challenge
 
-We’re excited to announce the W&B into [SpaceInvaders](https://gym.openai.com/envs/SpaceInvaders-v0/) Challenge, a reinforcement learning competition. Your goal is to train reinforcement learning agents in OpenAI's gym environment. The contestants with the top 3 scores will receive prizes and be invited to share their solutions with the community. The challenge is open to Qualcomm employees.
+We’re excited to announce the W&B [SpaceInvaders](https://gym.openai.com/envs/SpaceInvaders-v0/) Challenge, a reinforcement learning competition. Your goal is to train reinforcement learning agents in OpenAI's gym environment. The contestants with the top 3 scores will receive prizes and be invited to share their solutions with the community. The challenge is open to Qualcomm employees.
 
 ![](https://thumbs.gfycat.com/CookedFriendlyAntarcticfurseal-size_restricted.gif)
 ## Getting Started
