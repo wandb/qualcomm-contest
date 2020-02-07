@@ -13,7 +13,7 @@ We’re excited to announce the W&B [SpaceInvaders](https://gym.openai.com/envs/
 
 New to online contests with W&B, reinforcement learning and/or OpenAI gym? No problem! We have posted resources to help you understand the W&B Python libraries, supported frameworks, suitable algorithms and some articles on neural networks below under the Resources section.
 
-Questions? Use the `#qualcomm-competition` [slack channel](http://bit.ly/wandb-forum), or email <qualcommcontest@wandb.com>.
+Questions? Use the `#qualcomm-competition` [slack channel](http://bit.ly/wandb-forum), or email <contest@wandb.com>.
 
 ## Submissions
 You may submit your entries [here](https://app.wandb.ai/wandb/spaceinvaders-challenge/benchmark/submit). You'll need a Weights & Biases account to make submissions.
