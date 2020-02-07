@@ -8,7 +8,7 @@ We’re excited to announce the W&B [SpaceInvaders](https://gym.openai.com/envs/
 
 **To enter the competition:**
 - [Sign up](https://app.wandb.ai/login?signup=true) for W&B.
-- Download the [baseline notebook](https://github.com/wandb/qualcomm-contest/blob/master/SpaceInvaders_Baseline.ipynb) to get started. PLEASE NOTE: This notebook contains code for loading the gym environment, preprocessing data, and calcuating & logging the cumulate average reward metrics. 
+- Download the [baseline notebook](https://github.com/wandb/qualcomm-contest/blob/master/SpaceInvaders_Baseline.ipynb) to get started. PLEASE NOTE: This notebook contains code for loading the gym environment, preprocessing data, and calculating & logging the cumulative average reward metrics. 
 - Submit your test runs [here](https://app.wandb.ai/wandb/spaceinvaders-challenge/benchmark/submit). See submissions instructions below.
 
 New to online contests with W&B, reinforcement learning and/or OpenAI gym? No problem! We have posted resources to help you understand the W&B Python libraries, supported frameworks, suitable algorithms and some articles on neural networks below under the Resources section.
