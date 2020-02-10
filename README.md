@@ -21,6 +21,17 @@ Working with colleagues on this competition is encouraged!  For teams we suggest
 
 <img width="488" alt="Screen Shot 2020-02-10 at 12 07 35 PM" src="https://user-images.githubusercontent.com/17/74185692-fe17c080-4bfd-11ea-9a01-6fc67a01a353.png">
 
+## Iterating Quickly in Colab
+
+Google Colab is a convenient hosted environment you can use to run the baseline and iterate on your models quickly. To get started:
+
+1. Open the [baseline notebook](https://colab.research.google.com/drive/1lz_qVRc44bjkWvi-0sWuJppM5DJ-64Q4).
+2. Click "Open in playground" to create a copy of this notebook for yourself.
+3. Save a copy in Google Drive for yourself.
+4. To enable a GPU, please click Edit > Notebook Settings. Change the "hardware accelerator" to GPU.
+5. Step through each section, pressing play on the code blocks to run the cells.
+6. Add your own model code.
+
 ## Submissions
 You may submit your entries [here](https://app.wandb.ai/wandb/spaceinvaders-challenge/benchmark/submit). You'll need a Weights & Biases account to make submissions.
 
