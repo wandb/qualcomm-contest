@@ -55,10 +55,10 @@ Entries will be ranked from highest to lowest by the best 100-episode average re
 The Best W&B Report will be awarded to the individual who creates the best writeup explaining their model architecture, training process and results achieved. You can find sample W&B reports [here](https://app.wandb.ai/stacey/deep-drive/reports/Find-Humans-and-Vehicles-in-Dashboard-Scenes---Vmlldzo0NDA1Ng), [here](https://app.wandb.ai/dewald123/Liu_pytorch/reports/Solar-Flare-Prediction--Vmlldzo0MDYwNw) and [here](https://app.wandb.ai/stacey/estuary/reports/Distributed-Training--Vmlldzo1MTE0MA).
 
 ## Prizes
-- First place - $1000
-- Second place - $500
-- Third place - $200
-- Best W&B Report - $500
+- First place - $1000 travel gift card
+- Second place - $500 travel gift card
+- Third place - $200 travel gift card
+- Best W&B Report - $500 travel gift card
 
 
 ## Timeline
