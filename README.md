@@ -8,7 +8,7 @@ We’re excited to announce the W&B [SpaceInvaders](https://gym.openai.com/envs/
 
 **To enter the competition:**
 - [Sign up](https://app.wandb.ai/login?signup=true) for W&B.
-- Download the [baseline notebook](https://colab.research.google.com/drive/1lz_qVRc44bjkWvi-0sWuJppM5DJ-64Q4) to get started. PLEASE NOTE: This notebook contains code for loading the gym environment, preprocessing data, and calculating & logging the cumulative average reward metrics. 
+- Download the [baseline notebook](https://colab.research.google.com/github/wandb/qualcomm-contest/blob/master/SpaceInvaders%20Baseline.ipynb) to get started. PLEASE NOTE: This notebook contains code for loading the gym environment, preprocessing data, and calculating & logging the cumulative average reward metrics. 
 - Submit your test runs [here](https://app.wandb.ai/wandb/spaceinvaders-challenge/benchmark/submit). See submissions instructions below.
 
 New to online contests with W&B, reinforcement learning and/or OpenAI gym? No problem! We have posted resources to help you understand the W&B Python libraries, supported frameworks, suitable algorithms and some articles on neural networks below under the Resources section.
@@ -25,7 +25,7 @@ Working with colleagues on this competition is encouraged!  For teams we suggest
 
 Google Colab is a convenient hosted environment you can use to run the baseline and iterate on your models quickly. To get started:
 
-1. Open the [baseline notebook](https://colab.research.google.com/drive/1lz_qVRc44bjkWvi-0sWuJppM5DJ-64Q4).
+1. Open the [baseline notebook](https://colab.research.google.com/github/wandb/qualcomm-contest/blob/master/SpaceInvaders%20Baseline.ipynb).
 2. Click "Open in playground" to create a copy of this notebook for yourself.
 3. Save a copy in Google Drive for yourself.
 4. To enable a GPU, please click Edit > Notebook Settings. Change the "hardware accelerator" to GPU.
