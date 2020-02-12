@@ -44,7 +44,7 @@ Each run must include the following files:
 - Model training script (.py script or notebook)
 - Any other files necessary to recreate the model
 
-**Please ensure that you log your model file (colab notebook, .py scripts etc) and all files necessary to recreate the model in your run using [wandb.save()](https://docs.wandb.com/library/python/save). Without this, we will be unable to evaluate your model. If you trouble saving your model files to your wandb run, please email them to <contest@wandb.com> along with your wandb run url.**
+**Please ensure that you log your model file (colab notebook, .py scripts etc) and all files necessary to recreate the model in your run using [wandb.save()](https://docs.wandb.com/library/python/save). Without this, we will be unable to evaluate your model. If you have trouble saving your model files to your wandb run, please email them to <contest@wandb.com> along with your wandb run url.**
 
 Also please ensure that your code is not in a public repo, but is visible to us by adding 'lavanyashukla' as a collaborator to your repo. We will use the model saved in the submitted run to recreate the model and evaluate it across the 5 random seeds.
 
@@ -65,7 +65,7 @@ The Best W&B Report will be awarded to the individual who creates the best write
 
 
 ## Timeline
-- February 11 - Competition Announced
+- February 12 - Competition Announced
 - April 10 - Deadline for final submissions
 - May 1 - Winners announced
 - TBD - Contest Retrospective Webinar
