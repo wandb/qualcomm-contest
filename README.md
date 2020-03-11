@@ -7,7 +7,7 @@ We’re excited to announce the W&B [SpaceInvaders](https://gym.openai.com/envs/
 ## Getting Started
 
 **To enter the competition:**
-- [Sign up](https://app.wandb.ai/login?signup=true) for W&B.
+- [Sign up](https://app.wandb.ai/login?signup=true) for W&B using your Qualcomm email address
 - Download the [baseline notebook](https://colab.research.google.com/github/wandb/qualcomm-contest/blob/master/SpaceInvaders_Baseline.ipynb) to get started. PLEASE NOTE: This notebook contains code for loading the gym environment, preprocessing data, calculating & logging the cumulative average reward metrics and saving your model files. 
 - Evaluate your model using the [evaluation notebook](https://colab.research.google.com/github/wandb/qualcomm-contest/blob/master/SpaceInvaders_Evaluation_Template.ipynb).
 - Submit your test runs [here](https://app.wandb.ai/wandb/spaceinvaders-challenge/benchmark/submit). See submissions instructions below.
