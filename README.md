@@ -27,7 +27,7 @@ Working with colleagues on this competition is encouraged!  For teams we suggest
 Google Colab is a convenient hosted environment you can use to run the baseline and iterate on your models quickly. To get started:
 
 1. Open the [baseline notebook](https://colab.research.google.com/github/wandb/qualcomm-contest/blob/master/SpaceInvaders_Baseline.ipynb).
-2. Click "Open in playground" to create a copy of this notebook for yourself.
+2. Click "Open in playground" or "copy to drive" to create a copy of this notebook for yourself.
 3. Save a copy in Google Drive for yourself.
 4. To enable a GPU, please click Edit > Notebook Settings. Change the "hardware accelerator" to GPU.
 5. Step through each section, pressing play on the code blocks to run the cells.
