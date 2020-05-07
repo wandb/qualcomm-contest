@@ -66,8 +66,8 @@ The Best W&B Report will be awarded to the individual who creates the best write
 
 ## Timeline
 - February 12 - Competition Announced
-- April 10 - Deadline for final submissions
-- May 1 - Winners announced
+- April 30 - Deadline for final submissions
+- June 1 - Winners announced
 - TBD - Contest Retrospective Webinar
 
 The deadlines are at 11:59PM on the days mentioned above PST.
